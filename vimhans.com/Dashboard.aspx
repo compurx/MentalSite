@@ -1,81 +1,81 @@
 ﻿<%@ Page Language="C#" MasterPageFile="~/MasterPage.master" AutoEventWireup="true" CodeFile="Dashboard.aspx.cs" Inherits="AdminPanel_Dashboard" Title="Untitled Page" %>
 
-<asp:Content ID="Content1" ContentPlaceHolderID="head" Runat="Server">
+<asp:Content ID="Content1" ContentPlaceHolderID="head" runat="Server">
 </asp:Content>
-<asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" Runat="Server">
-<div style="margin-top: 65px">
+<asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="Server">
+    <div style="margin-top: 65px">
         <div class="row">
             <div class="col-xl-3 col-sm-6 mb-3">
-                    <div class="card-body">
-                        <div class="card-body-icon">
-                            <i class="fa fa-fw fa-comments"></i>
-                        </div>
-                        <div class="mr-5">
-                            26 New Messages!</div>
+                <div class="card-body">
+                    <div class="card-body-icon">
+                        <i class="fa fa-fw fa-comments"></i>
                     </div>
-                    <a class="card-footer text-white clearfix small z-1" href="#"><span class="float-left">
-                        View Details</span> <span class="float-right"><i class="fa fa-angle-right"></i></span>
-                    </a>
-                </div><div>test</div>
-            </div>
-            <div class="col-xl-3 col-sm-6 mb-3">
-                <div class="card text-white bg-warning o-hidden h-100">
-                    <div class="card-body">
-                        <div class="card-body-icon">
-                            <i class="fa fa-fw fa-list"></i>
-                        </div>
-                        <div class="mr-5">
-                            11 New Tasks!</div>
+                    <div class="mr-5">
+                        26 New Messages!
                     </div>
-                    <a class="card-footer text-white clearfix small z-1" href="#"><span class="float-left">
-                        View Details</span> <span class="float-right"><i class="fa fa-angle-right"></i></span>
-                    </a>
                 </div>
-            </div>
-            <div class="col-xl-3 col-sm-6 mb-3">
-                <div class="card text-white bg-success o-hidden h-100">
-                    <div class="card-body">
-                        <div class="card-body-icon">
-                            <i class="fa fa-fw fa-shopping-cart"></i>
-                        </div>
-                        <div class="mr-5">
-                            123 New Orders!</div>
-                    </div>
-                    <a class="card-footer text-white clearfix small z-1" href="#"><span class="float-left">
-                        View Details</span> <span class="float-right"><i class="fa fa-angle-right"></i></span>
-                    </a>
-                </div>
-            </div>
-            <div class="col-xl-3 col-sm-6 mb-3">
-                <div class="card text-white bg-danger o-hidden h-100">
-                    <div class="card-body">
-                        <div class="card-body-icon">
-                            <i class="fa fa-fw fa-support"></i>
-                        </div>
-                        <div class="mr-5">
-                            13 New Tickets!</div>
-                    </div>
-                    <a class="card-footer text-white clearfix small z-1" href="#"><span class="float-left">
-                        View Details</span> <span class="float-right"><i class="fa fa-angle-right"></i></span>
-                    </a>
-                </div>
+                <a class="card-footer text-white clearfix small z-1" href="#"><span class="float-left">View Details</span> <span class="float-right"><i class="fa fa-angle-right"></i></span>
+                </a>
             </div>
         </div>
-        <div class="row">
-            <div class="col-sm-12">
-                <br />
+        <div class="col-xl-3 col-sm-6 mb-3">
+            <div class="card text-white bg-warning o-hidden h-100">
+                <div class="card-body">
+                    <div class="card-body-icon">
+                        <i class="fa fa-fw fa-list"></i>
+                    </div>
+                    <div class="mr-5">
+                        11 New Tasks!
+                    </div>
+                </div>
+                <a class="card-footer text-white clearfix small z-1" href="#"><span class="float-left">View Details</span> <span class="float-right"><i class="fa fa-angle-right"></i></span>
+                </a>
             </div>
         </div>
-        <div class="row">
-                <div class="col-sm-3">
+        <div class="col-xl-3 col-sm-6 mb-3">
+            <div class="card text-white bg-success o-hidden h-100">
+                <div class="card-body">
+                    <div class="card-body-icon">
+                        <i class="fa fa-fw fa-shopping-cart"></i>
+                    </div>
+                    <div class="mr-5">
+                        123 New Orders!
+                    </div>
                 </div>
-                <div class="col-sm-5">
-                        <img src="images/logo.jpg"/>
-                </div>
-                <div class="col-sm-4">
-                </div>
+                <a class="card-footer text-white clearfix small z-1" href="#"><span class="float-left">View Details</span> <span class="float-right"><i class="fa fa-angle-right"></i></span>
+                </a>
+            </div>
         </div>
-      <%--  <div class="row">
+        <div class="col-xl-3 col-sm-6 mb-3">
+            <div class="card text-white bg-danger o-hidden h-100">
+                <div class="card-body">
+                    <div class="card-body-icon">
+                        <i class="fa fa-fw fa-support"></i>
+                    </div>
+                    <div class="mr-5">
+                        13 New Tickets!
+                    </div>
+                </div>
+                <a class="card-footer text-white clearfix small z-1" href="#"><span class="float-left">View Details</span> <span class="float-right"><i class="fa fa-angle-right"></i></span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-sm-12">
+            <br />
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-sm-3">
+        </div>
+        <div class="col-sm-5">
+            <img src="images/logo.jpg" />
+        </div>
+        <div class="col-sm-4">
+        </div>
+    </div>
+    <%--  <div class="row">
             <div class="col-lg-6">
                 <div class="panel panel-primary" style="height:170px;">
                     <div class="panel-heading">
@@ -189,21 +189,21 @@
     <!-- Toggle between fixed and static navbar-->
 
     <script>
-    $('#toggleNavPosition').click(function() {
-      $('body').toggleClass('fixed-nav');
-      $('nav').toggleClass('fixed-top static-top');
-    });
+        $('#toggleNavPosition').click(function () {
+            $('body').toggleClass('fixed-nav');
+            $('nav').toggleClass('fixed-top static-top');
+        });
 
     </script>
 
     <!-- Toggle between dark and light navbar-->
 
     <script>
-    $('#toggleNavColor').click(function() {
-      $('nav').toggleClass('navbar-dark navbar-light');
-      $('nav').toggleClass('bg-dark bg-light');
-      $('body').toggleClass('bg-dark bg-light');
-    });
+        $('#toggleNavColor').click(function () {
+            $('nav').toggleClass('navbar-dark navbar-light');
+            $('nav').toggleClass('bg-dark bg-light');
+            $('body').toggleClass('bg-dark bg-light');
+        });
 
     </script>
 </asp:Content>
