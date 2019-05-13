@@ -1,0 +1,26 @@
+D:\Jitendra\vimhans latest work\vimhans.com\VMS.BusinessFramework\obj\Debug\ResolveAssemblyReference.cache
+D:\Jitendra\vimhans latest work\vimhans.com\VMS.BusinessFramework\bin\Debug\VMS.BusinessFramework.dll
+D:\Jitendra\vimhans latest work\vimhans.com\VMS.BusinessFramework\bin\Debug\VMS.BusinessFramework.pdb
+D:\Jitendra\vimhans latest work\vimhans.com\VMS.BusinessFramework\obj\Debug\VMS.BusinessFramework.dll
+D:\Jitendra\vimhans latest work\vimhans.com\VMS.BusinessFramework\obj\Debug\VMS.BusinessFramework.pdb
+D:\Jitendra\My Current Project\VMS.BusinessFramework\bin\Debug\VMS.BusinessFramework.dll
+D:\Jitendra\My Current Project\VMS.BusinessFramework\bin\Debug\VMS.BusinessFramework.pdb
+D:\Jitendra\My Current Project\VMS.BusinessFramework\obj\Debug\ResolveAssemblyReference.cache
+D:\Jitendra\My Current Project\VMS.BusinessFramework\obj\Debug\VMS.BusinessFramework.dll
+D:\Jitendra\My Current Project\VMS.BusinessFramework\obj\Debug\VMS.BusinessFramework.pdb
+C:\Users\CompuRx\Desktop\31 JAN 2019 VIMHANS UPLOAD\VMS.BusinessFramework\bin\Debug\VMS.BusinessFramework.dll
+C:\Users\CompuRx\Desktop\31 JAN 2019 VIMHANS UPLOAD\VMS.BusinessFramework\bin\Debug\VMS.BusinessFramework.pdb
+C:\Users\CompuRx\Desktop\31 JAN 2019 VIMHANS UPLOAD\VMS.BusinessFramework\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\CompuRx\Desktop\31 JAN 2019 VIMHANS UPLOAD\VMS.BusinessFramework\obj\Debug\VMS.BusinessFramework.dll
+C:\Users\CompuRx\Desktop\31 JAN 2019 VIMHANS UPLOAD\VMS.BusinessFramework\obj\Debug\VMS.BusinessFramework.pdb
+C:\Users\CompuRx\Desktop\2 feburary 2019\31 JAN 2019 VIMHANS UPLOAD\VMS.BusinessFramework\bin\Debug\VMS.BusinessFramework.dll
+C:\Users\CompuRx\Desktop\2 feburary 2019\31 JAN 2019 VIMHANS UPLOAD\VMS.BusinessFramework\bin\Debug\VMS.BusinessFramework.pdb
+C:\Users\CompuRx\Desktop\2 feburary 2019\31 JAN 2019 VIMHANS UPLOAD\VMS.BusinessFramework\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\CompuRx\Desktop\2 feburary 2019\31 JAN 2019 VIMHANS UPLOAD\VMS.BusinessFramework\obj\Debug\VMS.BusinessFramework.dll
+C:\Users\CompuRx\Desktop\2 feburary 2019\31 JAN 2019 VIMHANS UPLOAD\VMS.BusinessFramework\obj\Debug\VMS.BusinessFramework.pdb
+C:\Users\USER\Desktop\schizophrenia(15.04.19)\31 JAN 2019 VIMHANS UPLOAD\VMS.BusinessFramework\bin\Debug\VMS.BusinessFramework.dll
+C:\Users\USER\Desktop\schizophrenia(15.04.19)\31 JAN 2019 VIMHANS UPLOAD\VMS.BusinessFramework\bin\Debug\VMS.BusinessFramework.pdb
+C:\Users\USER\Desktop\schizophrenia(15.04.19)\31 JAN 2019 VIMHANS UPLOAD\VMS.BusinessFramework\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\USER\Desktop\schizophrenia(15.04.19)\31 JAN 2019 VIMHANS UPLOAD\VMS.BusinessFramework\obj\Debug\VMS.BusinessFramework.dll
+C:\Users\USER\Desktop\schizophrenia(15.04.19)\31 JAN 2019 VIMHANS UPLOAD\VMS.BusinessFramework\obj\Debug\VMS.BusinessFramework.pdb
+C:\Users\USER\Desktop\PerformaForVimhans\VMS.BusinessFramework\obj\Debug\ResolveAssemblyReference.cache

@@ -1,0 +1,669 @@
+﻿body
+
+{
+	
+}
+.text-control212
+{
+	border:1px solid #008cba;
+	width:242px;
+	height:30px;
+	padding: 4px 4px 4px 4px;
+	font-size:10px; 
+	border-radius:2px;	
+}
+
+.text-control212:focus
+{
+ background-color:#f4f6f9;	
+}
+.loginpgsize
+{
+	margin-top:50px; 
+	margin-left:200px
+}
+
+.white-block11 {
+    background-color: RGBA(12, 86, 134, 0.85);
+    padding: 0px;
+}
+.ajax__calendar_day_disabled
+{
+    background-color:#ccc !important;
+    color:#eee !important;
+}
+
+.ajax__calendar_day_disabled
+{
+    background-color:#ccc !important;
+    color:#eee !important;
+}
+/*----login&signup*/
+.margintop25
+{
+	margin-top:25px;
+}
+.headcolor_white
+{
+ color:White;
+}
+
+.text-control212
+{
+	border:1px solid #008cba;
+	width:242px;
+	height:30px;
+	padding: 4px 4px 4px 4px;
+	font-size:10px; 
+	border-radius:2px;	
+}
+
+.text-control212:focus
+{
+ background-color:#f4f6f9;	
+}
+.loginpgsize
+{
+	margin-top:50px; 
+	margin-left:200px
+}
+
+
+
+/*---end-login&signup*/
+
+/*----CompanyEmployer*/
+.margintop5
+{
+	margin-top:5px;
+}
+.margintop9
+{
+	margin-top:9px;
+}
+.margintop-5
+{
+	margin-top:-5px;
+}
+.colorRed_fontsize
+{
+	color:Red;
+	font-size:x-small;
+}
+
+/*---end-CompanyEmployer*/
+
+/*---COMMON---*/
+.imgEdit_Delete_Btn
+{
+	width:16px;
+	height:16px; 
+}
+.whitebox_scroll
+{
+	overflow:scroll;
+   height:173px;
+}
+.whitebox_scrollmain
+{
+	overflow:scroll;
+   height:350px;
+   
+}
+
+.whitebox_scrollmain2
+{
+	overflow:scroll;
+   height:500px;
+   
+}
+.gridscroll
+{
+	overflow:scroll; 
+	height:198px;
+}
+.Gridheight
+{
+height:575px; 
+overflow:scroll;
+}
+
+.btnPrimary_bg_Blue	
+{
+	background-color:#337ab7;
+}
+/*--end-COMMON---*/
+
+.margintop-7
+{
+	margin-top: -7px;
+}
+.margintop7
+{
+	margin-top: 7px !important;
+}
+
+.marginleft7
+{
+	margin-left: 7px;
+}
+
+.marginbtm5
+{
+	margin-bottom: 5px;
+}
+
+
+.scroll
+{
+	overflow: scroll;
+	margin-top: 40px;
+	height: 400px;
+}
+
+
+.float
+{
+	float: right;
+}
+
+.padding-left-bottom
+{
+	padding-left: 20px;
+	padding-bottom: 10px;
+}
+
+.clr
+{
+	text-align: center;
+	color: Red;
+}
+
+
+
+.style
+{
+	padding-left: 10px;
+	color: #428cf4;
+}
+
+.align
+{
+	text-align: justify;
+}
+ /*--Drug Master*/
+  .text-controlBox
+{
+ border:1px solid #008cba;
+	width:250px;
+	height:100px;
+	padding: 4px 4px 4px 4px;
+	font-size: 10px; 	
+	border-radius:2px;
+	text-transform: uppercase;
+}
+
+.btn_bg_font
+{
+  background-color:#3C7BB8;
+  color:White;
+}
+
+
+
+
+.cbxscroll {
+    
+    width:100%;
+    height:100px;
+    overflow:scroll;
+}
+
+   .cbxlst {
+    font-weight: inherit;
+    color: #545c67;
+    margin-right: 78px;
+    margin-bottom: 8px;
+    margin-left: 7px;
+    margin-top: 3px;
+}
+
+.grid_TemHed100 {
+     width:100%;
+}
+
+.lblfontsize10
+{
+	font-size:10px; 
+	font-family:Arial;
+     font-weight:bold;
+}
+
+/*--checkbox style*/
+/*------Investigation Master-----*/
+
+.scrollHt350
+{
+	overflow: scroll;
+	height: 340px;
+}
+  /*---End Investigation Master-----*/
+
+
+/*--checkbox style*/
+/* iCheck plugin Flat skin, blue
+----------------------------------- */
+.icheckbox_flat-blue, .iradio_flat-blue {
+    display: inline-block;
+    *display: inline;
+    vertical-align: middle;
+    margin: 0;
+    padding: 0;
+    width: 16px;
+    height: 16px;
+    background: url(blue.png) no-repeat;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.icheckbox_flat-blue {
+    background-position: 0 0;
+}
+    .icheckbox_flat-blue.checked {
+        background-position: -22px 0;
+    }
+    .icheckbox_flat-blue.disabled {
+        background-position: -44px 0;
+        cursor: default;
+    }
+    .icheckbox_flat-blue.checked.disabled {
+        background-position: -66px 0;
+    }
+
+.iradio_flat-blue {
+    background-position: -88px 0;
+}
+    .iradio_flat-blue.checked {
+        background-position: -110px 0;
+    }
+    .iradio_flat-blue.disabled {
+        background-position: -132px 0;
+        cursor: default;
+    }
+    .iradio_flat-blue.checked.disabled {
+        background-position: -154px 0;
+    }
+
+/* HiDPI support */
+@media (-o-min-device-pixel-ratio: 5/4), (-webkit-min-device-pixel-ratio: 1.25), (min-resolution: 120dpi), (min-resolution: 1.25dppx) {
+    .icheckbox_flat-blue,
+    .iradio_flat-blue {
+        background-image: url(blue@2x.png);
+        -webkit-background-size: 176px 22px;
+        background-size: 176px 22px;
+    }
+}
+/*--end checkbox style*/
+  /*Prescriton Page start*/
+  	
+
+.imagebtn
+{
+	height:20px;
+	width:20px;
+}
+
+.margin_top
+{
+	margin-top:-25px;
+}
+        
+  /*Prescriton Page end*/
+  
+  /*Occupation Master*/
+  .LableFontMedium
+{
+	font-size:14px;
+}
+
+.Searh
+{
+	Height:40px;
+	Width:40px;
+	margin-top:15px;
+}
+.imgedit_delete_btn
+{
+	height:16px;
+	width:16px;
+}
+.whitebox_scrollmain
+{
+	
+	overflow:scroll;
+   height:300px;
+}
+.ErrorMsg
+{
+	font-size:12px;
+	color:Red;
+}
+/*--end--Occupation Masters*/
+  .Pgrid
+  {
+  	height:367px; 
+  	overflow:scroll;
+  }
+  /* start here for certificate */
+  
+  
+  
+  /*Key Word Space*/
+ 
+   .MarginLeft38px
+  {
+  	margin-left:38px;
+  	
+  }
+  
+   .MarginLeft25px
+  {
+  	margin-left:25px;
+  	
+  }
+   .MarginLeft47px
+  {
+  	margin-left:47px;
+  	
+  }
+  
+    .MarginLeft98px
+  {
+  	margin-left:98px;
+  	
+  }
+  
+    .MarginLeft80px
+  {
+  	margin-left:80px;
+  	
+  }
+  
+    .MarginLeft15px
+  {
+  	margin-left:15px;
+  	
+  }
+  
+   .MarginLeft39px
+  {
+  	margin-left:39px;
+  	
+  }
+  
+   .MarginLeft27px
+   {
+  	margin-left:27px;
+  	
+  }
+   
+   .MarginLeft75px
+  {
+  	margin-left:75px;
+  	
+  }
+  
+  
+  .MarginLeft62px
+  {
+  	margin-left:62px;
+  	
+  }
+  
+  .MarginLeft58px
+  {
+  	margin-left:58px;
+  	
+  }
+   .MarginLeft65px
+  {
+  	margin-left:65px;
+  	
+  }
+  
+  .MarginLeft79px
+  {
+  	margin-left:79px;
+  	
+  }
+  
+   .MarginLeft77px
+  {
+  	margin-left:77px;
+  	
+  }
+  
+  .MarginLeft49px
+  {
+  	margin-left:49px;
+  	
+  }
+  
+  .MarginLeft40px
+  {
+  	margin-left:40px;
+  	
+  }
+  
+  .MarginLeft42px
+  {
+  	margin-left:42px;
+  	
+  }
+  
+ 
+  
+   /*End Key Word Space*/
+
+
+
+
+
+        fieldset.scheduler-border {
+    border: 1px groove #ddd !important;
+    padding: 0 1em 1.4em 1.4em !important;
+    margin: 0 0 0 0 !important;
+    -webkit-box-shadow:  0px 0px 0px 0px #000;
+      box-shadow:  0px 0px 0px 0px;
+ 
+    
+     
+}
+
+    legend.scheduler-border {
+        font-size: 1em !important;
+        font-weight: bold !important;
+        text-align: left !important;
+       width:auto; /* Or auto */
+       padding :0 10px; /* To give a bit of padding on the left and right */
+      border-bottom:none;
+      margin-top:15px;
+     
+    }
+
+
+
+    .mybutton2
+    {
+    background-color: #337ab7; 
+    border: none;
+    color: white;
+    padding: 2px;
+    width:110px;
+    text-align: center;
+    text-decoration: none;
+    display:block;
+    font-size: 12px;
+  
+    	}
+    	.mybutton2:hover {
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+
+.text-control-large
+{
+	border:1px solid #008cba;
+	width:255px;
+	height:25px;
+	padding: 4px 4px 4px 4px;
+	font-size: 12px; 	
+	border-radius:2px;
+	text-transform: uppercase;
+}
+
+.text-control-large:focus
+{
+ background-color:#f4f6f9;	
+}
+
+.text-control02
+{
+	border:1px solid #008cba;
+	width:123px;
+	height:25px;
+	padding: 4px 4px 4px 4px;
+	font-size:10px; 
+	border-radius:2px;	
+}
+.text-control02:focus
+{
+ background-color:#f4f6f9;	
+}
+
+
+.mybutton
+    {
+    background-color: #337ab7; 
+    border: none;
+    color: white;
+    padding: 2px;
+    width:35px;
+    height:25px;
+    text-align: center;
+    text-decoration: none;
+    display:block;
+    font-size: 12px;
+  
+    	}
+    	.mybutton:hover {
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+    .mybutton2
+    {
+    background-color: #337ab7; 
+    border: none;
+    color: white;
+    padding: 2px;
+    width:110px;
+    text-align: center;
+    text-decoration: none;
+    display:block;
+    font-size: 12px;
+  
+    	}
+    	.mybutton2:hover {
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+.mybutton3
+    {
+    background-color: #337ab7; 
+    border: none;
+    color: white;
+    padding: 2px;
+    width:200px;
+    height:25px;
+    text-align: center;
+    text-decoration: none;
+    display:block;
+    font-size: 12px;
+  
+    	}
+    	.mybutton3:hover {
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+.text-control-TempLarge
+{
+	border:1px solid #008cba;
+	width:255px;
+	height:25px;
+	padding: 4px 4px 4px 4px;
+	font-size: 12px; 	
+	border-radius:2px;
+	text-transform: uppercase;
+}
+
+.text-control-TempLarge:focus
+{
+ background-color:#f4f6f9;	
+}
+
+
+
+.TextEditor
+  {
+  	height:400px;
+  	width:400PX;	
+  }	
+  
+  /* end here for certificate*/
+  
+  
+fieldset.scheduler-border {
+    border: 1px groove #ddd !important;
+    padding: 0.5em 0.5em 0 0.5em !important;
+    margin: 0 0 0 0 !important;
+    -webkit-box-shadow:  0px 0px 0px 0px #000;
+      box-shadow:  0px 0px 0px 0px #000;
+     
+     
+}
+
+  legend.scheduler-border 
+   {
+        font-size: 1em !important;
+        font-weight: bold !important;
+        text-align: left !important;
+        width:inherit; /* Or auto */
+       padding :0 10px; /* To give a bit of padding on the left and right */
+      border-bottom:none;
+     
+    }
+
+.checkBoxList {
+  max-height:100px;
+  height:auto !important;
+  height:100px;
+  font-size:11px;
+  padding-left:10px;
+}
+
+.invest1
+{
+	width:100%;
+	height:150px;
+	margin-top: -18px; 
+	margin-bottom: 10px;
+}
+
+.invest
+{
+	width:100%;
+	height:220px;
+	margin-top: -18px; 
+	margin-bottom: 10px;
+}

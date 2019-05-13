@@ -1,0 +1,66 @@
+﻿/*
+//Developed by: Ashwani Dwivedi
+
+*/
+.custom_pager{
+    height:26px;
+    background-color:#F0F3F4;
+    border-top:solid 3px #ffffff;
+    border-bottom:solid 3px #ffffff;
+    color:#000;
+    font-size:small; 
+    font-weight:bold;  
+    width:100%;
+}
+
+.custom_pager span{
+    line-height:15px;
+    height:18px;
+    padding:2px 3px ;
+    margin:2px;
+    float:left;
+}
+
+.custom_pager span.page_link {
+    cursor:pointer;
+}  
+.custom_pager span.active {
+    /*background: #808080;*/
+    background: #46b8da;
+    color:White;
+}  
+.custom_pager span.next_link 
+{
+    cursor:pointer;
+    /*background: #808080;*/
+    background: #46b8da;
+    color:White;
+}       
+.custom_pager span.previous_link 
+{
+    cursor:pointer;
+    /*background: #808080;*/
+    background: #46b8da;    
+    color:White;
+}            
+.custom_pager .filterbox 
+{
+    vertical-align: middle;
+    font-size: 11px;
+    margin:2px;
+    
+    height: 16px;
+    border: none;
+    border-radius: 1px;
+    -moz-border-radius: 1px;
+}             
+.custom_pager .clearfilter
+{
+            
+    width:16px;
+    height:16px; 
+    cursor: pointer; 
+    border: none;
+    vertical-align: middle;
+}            
+ 
